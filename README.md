@@ -1,5 +1,5 @@
 # Project Description
-# This project is a comprehensive collection of HTML examples and exercises covering the entire HTML syllabus. It includes code snippets, mini-projects, and practice exercises for each topic, making it a one-stop resource for learning HTML from scratch.
+This project is a comprehensive collection of HTML examples and exercises covering the entire HTML syllabus. It includes code snippets, mini-projects, and practice exercises for each topic, making it a one-stop resource for learning HTML from scratch.
 
 # HTML Mastery: Complete Syllabus with Examples
 
